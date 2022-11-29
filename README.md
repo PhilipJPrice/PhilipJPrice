@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PhilipJPrice
-- 👀 I’m interested in Python Programming, Data Analytics, Front-End Design
-- 🌱 I’m currently learning AutoCAD, Python, Java Springboot, and Adobe CC
-- 💞️ I’m looking to collaborate on just about anything, LiDAR services, especially.
-- 📫 How to reach me deutro@deutro.com
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning multiple languages
+- 💞️ I’m looking to collaborate on just about anything.
+- 📫 How to reach me philip.price.professional@outlook.com
 
 <!---
 PhilipJPrice/PhilipJPrice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
