@@ -8,6 +8,4 @@
 PhilipJPrice/PhilipJPrice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Concise-Resume.pdf (old)](https://github.com/PhilipJPrice/PhilipJPrice/files/10095133/Resume.pdf)
-
-[Elaborate-Resume.pdf (current)](https://github.com/PhilipJPrice/PhilipJPrice/files/10492615/Resume.pdf)
+[Resume_PhilipPrice.pdf](https://github.com/PhilipJPrice/PhilipJPrice/files/10549521/Resume_PhilipPrice.pdf)
