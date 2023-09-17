@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python-Flask, AWS, Databases, and Web Development
 - 💞️ I’m looking to collaborate on Web Development or Design
 - 📫 philipjustinprice@gmail.com
-- 🙏 [PhilipPriceResume.pdf](https://github.com/PhilipJPrice/PhilipJPrice/files/10830128/PhilipPriceResume.pdf)
 
 <!---
 PhilipJPrice/PhilipJPrice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
