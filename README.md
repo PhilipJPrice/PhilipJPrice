@@ -1,6 +1,6 @@
 - 👋 Hi, I am @PhilipJPrice
 - 👀 I am interested in Web Development
-- 🌱 I recently launched a full-stack website using Python-Flask, AWS, Databases, HTML, CSS, JavaScript, and Web Development Techniques
+- 🌱 I recently launched a full-stack website using Python-Flask, AWS, Databases, and HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on Web Development or General Graphic or Informational Design Projects
 - 📫 philipjustinprice@gmail.com
 
